@@ -14,13 +14,13 @@
     $route = array('name'); // set the available route
     $data = array( // example fetched data from DB
         'aldy' => array(
-            'name'        => 'Aldy Surachman',
-            'school'    => array(
-                'SD'    => 'SD Maleber Barat Bandung',
+            'name'       => 'Aldy Surachman',
+            'school'     => array(
+                'SD'     => 'SD Maleber Barat Bandung',
                 'SMP'    => 'SMP Mutiara 1 Bandung',
                 'SMK'    => 'SMK Pasundan 2 Bandung'
             ),
-            'skill'        => array('Webdev', 'Graphic Design', 'Office Application')
+            'skill'      => array('Webdev', 'Graphic Design', 'Office Application')
         ),
     );
 
